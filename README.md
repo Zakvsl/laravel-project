@@ -11,8 +11,6 @@ Sistem manajemen produk ini dirancang untuk membantu dalam mengelola produk. Sis
 
 ---
 
-> 📝 *Pastikan file gambar berada di folder `screenshots/` dalam struktur proyek Anda.*
-
 ---
 
 ## 📦 Instalasi
