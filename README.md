@@ -10,6 +10,7 @@ Sistem manajemen produk ini dirancang untuk membantu dalam mengelola produk. Sis
 - 💬 **Pengiriman Email** – Pengiriman email setelah adanya perubahan database produk.
 
 ---
+![Screenshot 2025-05-17 164032](https://github.com/user-attachments/assets/872ddff0-a8df-4b1b-b70f-5b4e64b91fba)
 
 ---
 
