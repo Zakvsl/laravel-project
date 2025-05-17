@@ -33,5 +33,20 @@ Berikut beberapa tampilan antarmuka dari proyek:
 ```bash
 git clone https://github.com/username/nama-repo.git
 cd nama-repo
-npm install
-npm run dev
+
+# Install dependensi backend
+composer install
+
+# Install dependensi frontend (jika menggunakan Vite, Laravel Mix, dll)
+npm install && npm run dev
+
+# Salin file environment dan konfigurasi
+cp .env.example .env
+php artisan key:generate
+
+# Jalankan migrasi database
+php artisan migrate
+
+# Mulai server lokal
+php artisan serve
+
